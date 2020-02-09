@@ -1,3 +1,9 @@
+"""
+ML (CS7641) - Supervised Learning
+Student Name: Gevorg Ter-Petrosyan
+GT User ID: gterpetrosyan3
+"""
+
 #!/usr/bin/env python
 # coding: utf-8
 
