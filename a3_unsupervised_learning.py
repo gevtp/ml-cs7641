@@ -1,5 +1,5 @@
 """
-ML (CS7641) - Randomized Optimization
+ML (CS7641) - Unsupervised Learning and Dimensionality Reduction
 Student Name: Gevorg Ter-Petrosyan
 GT User ID: gterpetrosyan3
 """
